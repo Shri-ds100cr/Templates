@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Imran Alam</h1>
+<h1 align="center">Hi 👋, I'm Shri</h1>
 <h3 align="center">🚀 Cloud & DevOps Engineer | Automating the Future ☁️</h3>
 
 <p align="center">
