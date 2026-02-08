@@ -1,4 +1,4 @@
-<h1 align="center">📱 Imran Alam - Mobile App Developer 🚀</h1>
+<h1 align="center">📱 Shri - Mobile App Developer 🚀</h1>
 <h3 align="center">"Crafting seamless mobile experiences with Flutter, Android, and iOS!"</h3>
 
 ---
