@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Imran Alam</h1>
+<h1 align="center">Hi 👋, I'm Shri </h1>
 <h3 align="center">🤖 Data Scientist & Machine Learning Engineer | Turning Data into Insights 🚀</h3>
 
 <p align="center">
