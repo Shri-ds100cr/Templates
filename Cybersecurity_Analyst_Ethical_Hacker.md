@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Imran Alam - Cybersecurity Analyst & Ethical Hacker 🔐</h1>
+<h1 align="center">🛡️ Shri - Cybersecurity Analyst & Ethical Hacker 🔐</h1>
 <h3 align="center">"Securing the digital world, one vulnerability at a time!"</h3>
 
 
